@@ -858,12 +858,6 @@ Feel free to modify, enhance, and share!
 
 ---
 
-**Project by:** Ruthradhesma  
-**Date:** February 2026  
-**Version:** 1.0
-
----
-
 ## Quick Reference Card
 
 ```
